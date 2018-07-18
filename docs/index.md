@@ -26,4 +26,4 @@ We seek to provide an environment in which all voices may be heard, and in which
 
 ### *Because we value **community engagement**…*
 
-We are committed to a decision-making process that is transparent, egalitarian, and that actively seeks the input and involvement of the entire community, explicitly centering the voices of people from traditionally marginalized groups.
+We are committed to a decision-making process that is transparent, egalitarian, and that actively seeks the input and involvement of the entire community, explicitly centering the voices of people from traditionally marginalized groups. .
